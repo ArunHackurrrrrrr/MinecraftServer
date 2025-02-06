@@ -1,0 +1,58 @@
+[19:19:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:19:06] [ServerMain/INFO]: Loaded 1370 recipes
+[19:19:06] [ServerMain/INFO]: Loaded 1481 advancements
+[19:19:06] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[19:19:06] [Server thread/INFO]: Loading properties
+[19:19:06] [Server thread/INFO]: Default game type: SURVIVAL
+[19:19:06] [Server thread/INFO]: Generating keypair
+[19:19:06] [Server thread/INFO]: Starting Minecraft server on *:54305
+[19:19:06] [Server thread/INFO]: Using default channel type
+[19:19:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:19:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:19:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:19:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:19:06] [Server thread/INFO]: Preparing level "world"
+[19:19:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:19:07] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:19:07] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:19:07] [Server thread/INFO]: Time elapsed: 695 ms
+[19:19:07] [Server thread/INFO]: Done (1.078s)! For help, type "help"
+[19:19:07] [Server thread/INFO]: Starting GS4 status listener
+[19:19:07] [Server thread/INFO]: Thread Query Listener started
+[19:19:07] [Query Listener #1/INFO]: Query running on 0.0.0.0:54305
+[19:19:14] [Server thread/INFO]: BadaDon69[/127.31.87.114:57321] logged in with entity id 16 at (410.3243336315396, -26.0, 171.18172636908284)
+[19:19:14] [Server thread/INFO]: BadaDon69 joined the game
+[19:19:19] [Server thread/INFO]: harman9899[/127.168.220.100:57326] logged in with entity id 315 at (156.7678276787737, 65.0, 120.47686387319291)
+[19:19:19] [Server thread/INFO]: harman9899 joined the game
+[19:19:35] [Server thread/INFO]: Arun[/127.57.242.208:57333] logged in with entity id 498 at (429.67665396084607, -50.0, 151.69999998807907)
+[19:19:35] [Server thread/INFO]: Arun joined the game
+[19:21:31] [Server thread/INFO]: No entity was found
+[19:21:52] [Server thread/INFO]: Teleported BadaDon69 to 168.500000, 70.000000, 120.500000
+[19:23:51] [Server thread/INFO]: Arun has made the advancement [Diamonds!]
+[19:29:22] [Server thread/INFO]: Arun fell from a high place
+[19:41:43] [Server thread/INFO]: harman9899 was slain by Arun
+[20:02:37] [Server thread/INFO]: BadaDon69 has made the advancement [Suit Up]
+[20:07:48] [Server thread/INFO]: BadaDon69 lost connection: Timed out
+[20:07:48] [Server thread/INFO]: BadaDon69 left the game
+[20:07:50] [Server thread/INFO]: Arun lost connection: Disconnected
+[20:07:50] [Server thread/INFO]: Arun left the game
+[20:07:54] [Server thread/INFO]: harman9899 lost connection: Timed out
+[20:07:54] [Server thread/INFO]: harman9899 left the game
+[20:09:01] [Server thread/INFO]: Arun[/127.251.174.137:62381] logged in with entity id 14284 at (154.91924614521298, 64.0, 118.23750001192093)
+[20:09:01] [Server thread/INFO]: Arun joined the game
+[20:10:25] [Server thread/INFO]: Arun lost connection: Disconnected
+[20:10:25] [Server thread/INFO]: Arun left the game
+[20:10:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:10:32] [Server thread/INFO]: STOP<--[HERE]
+[20:10:37] [Server thread/INFO]: Stopping the server
+[20:10:37] [Server thread/INFO]: Stopping server
+[20:10:37] [Server thread/INFO]: Saving players
+[20:10:37] [Server thread/INFO]: Saving worlds
+[20:10:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:10:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:10:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:10:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:10:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:10:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:10:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:10:37] [Server thread/INFO]: Thread Query Listener stopped
