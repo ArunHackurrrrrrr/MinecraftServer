@@ -10,10 +10,15 @@
       "minecraft:cold_ocean": "2025-02-05 23:36:32 +0530",
       "minecraft:beach": "2025-02-05 22:36:41 +0530",
       "minecraft:forest": "2025-02-05 19:54:57 +0530",
+      "minecraft:deep_ocean": "2025-02-06 22:05:53 +0530",
       "minecraft:river": "2025-02-05 20:23:48 +0530",
       "minecraft:stony_shore": "2025-02-05 20:23:04 +0530",
       "minecraft:snowy_plains": "2025-02-05 22:34:52 +0530",
       "minecraft:dripstone_caves": "2025-02-06 18:20:56 +0530",
+      "minecraft:ocean": "2025-02-06 22:01:39 +0530",
+      "minecraft:swamp": "2025-02-06 22:42:04 +0530",
+      "minecraft:windswept_hills": "2025-02-06 22:20:57 +0530",
+      "minecraft:windswept_savanna": "2025-02-06 22:02:31 +0530",
       "minecraft:plains": "2025-02-05 20:22:11 +0530"
     },
     "done": false
@@ -521,9 +526,11 @@
       "cooked_porkchop": "2025-02-05 23:42:30 +0530",
       "mutton": "2025-02-06 18:52:13 +0530",
       "chicken": "2025-02-05 20:23:07 +0530",
+      "bread": "2025-02-06 21:55:26 +0530",
       "cooked_chicken": "2025-02-05 23:13:10 +0530",
       "rotten_flesh": "2025-02-06 19:26:06 +0530",
       "cooked_mutton": "2025-02-05 20:23:34 +0530",
+      "glow_berries": "2025-02-06 22:36:24 +0530",
       "porkchop": "2025-02-06 18:52:31 +0530"
     },
     "done": false
@@ -1817,6 +1824,204 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-02-06 20:06:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-06 21:50:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-02-06 21:50:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-06 21:51:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-06 21:51:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-06 21:55:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-06 21:55:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-06 21:57:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-02-06 21:57:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-06 21:57:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-06 21:57:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-06 21:57:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-06 21:57:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-06 21:57:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-06 21:57:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-06 21:57:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-06 21:57:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-06 22:27:53 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-06 22:27:53 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-06 22:27:53 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-02-06 22:36:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-02-06 22:36:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-06 22:36:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-02-06 22:36:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-02-06 22:36:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-02-06 22:36:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-02-06 22:36:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-06 22:45:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-02-06 22:45:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-06 22:45:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-06 22:45:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-02-06 22:45:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-02-06 22:45:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-02-06 22:45:12 +0530"
     },
     "done": true
   },
